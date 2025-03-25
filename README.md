@@ -10,4 +10,12 @@ This guide explores Tailwind CSS spacing utilities, focusing on margin, padding,
 
 https://github.com/user-attachments/assets/6ccbd3ec-f282-4811-8edf-a6eb8de7308c
 
+## Typography
+
+This file explores Tailwind CSS typography utilities, including text size, font weight, line height, and text alignment. It demonstrates how to style text effectively using Tailwind’s utility classes for better readability and design consistency.
+
+https://github.com/user-attachments/assets/b866e79b-ac4a-4c33-9ae6-f9880fc8c5ee
+
+
+
 
