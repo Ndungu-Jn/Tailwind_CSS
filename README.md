@@ -16,6 +16,9 @@ This file explores Tailwind CSS typography utilities, including text size, font 
 
 https://github.com/user-attachments/assets/b866e79b-ac4a-4c33-9ae6-f9880fc8c5ee
 
+## Sizing
 
+Exploring Tailwind CSS sizing utilities, focusing on width (w-*), height (h-*), and max-width (max-w-*). Demonstarting how to control element dimensions efficiently to create responsive and well-structured layouts.
 
+https://github.com/user-attachments/assets/529756a4-a8f2-40d4-9f32-eb2889b81adc
 
