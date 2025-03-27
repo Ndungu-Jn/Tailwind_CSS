@@ -28,5 +28,14 @@ This project explores Tailwind CSS border utilities, including border colors (bo
 
 https://github.com/user-attachments/assets/2afcf4d4-3299-4915-b92e-93a3571c1c23
 
+## Filters
+
+This project explores Tailwind CSS filter utilities, including blur, brightness, contrast, grayscale, and other visual effects. It demonstrates how to apply and customize filters to enhance the appearance of elements efficiently.
+
+https://github.com/user-attachments/assets/2319d123-c723-40fb-b2cc-e214ef1dabc1
+
+
+
+
 
 
