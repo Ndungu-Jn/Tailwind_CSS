@@ -22,3 +22,11 @@ Exploring Tailwind CSS sizing utilities, focusing on width (w-*), height (h-*), 
 
 https://github.com/user-attachments/assets/529756a4-a8f2-40d4-9f32-eb2889b81adc
 
+## Borders
+
+This project explores Tailwind CSS border utilities, including border colors (border-*), border radius (rounded-*), and border width (border-*). It demonstrates how to style element borders effectively for clean and visually appealing designs.
+
+https://github.com/user-attachments/assets/2afcf4d4-3299-4915-b92e-93a3571c1c23
+
+
+
