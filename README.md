@@ -24,16 +24,21 @@ https://github.com/user-attachments/assets/529756a4-a8f2-40d4-9f32-eb2889b81adc
 
 ## Borders
 
-This project explores Tailwind CSS border utilities, including border colors (border-*), border radius (rounded-*), and border width (border-*). It demonstrates how to style element borders effectively for clean and visually appealing designs.
+The project explores Tailwind CSS border utilities, including border colors (border-*), border radius (rounded-*), and border width (border-*). It demonstrates how to style element borders effectively for clean and visually appealing designs.
 
 https://github.com/user-attachments/assets/2afcf4d4-3299-4915-b92e-93a3571c1c23
 
 ## Filters
 
-This project explores Tailwind CSS filter utilities, including blur, brightness, contrast, grayscale, and other visual effects. It demonstrates how to apply and customize filters to enhance the appearance of elements efficiently.
+Exxploring Tailwind CSS filter utilities, including blur, brightness, contrast, grayscale, and other visual effects. It demonstrates how to apply and customize filters to enhance the appearance of elements efficiently.
 
 https://github.com/user-attachments/assets/2319d123-c723-40fb-b2cc-e214ef1dabc1
 
+## Flexbox
+
+Exploring Tailwind CSS Flexbox utilities, demonstrating how to use flex, justify-*, items-*, flex-wrap, and gap classes to create flexible, responsive, and well-aligned layouts. It showcases different flex properties for arranging elements efficiently.
+
+![Flexbox](https://github.com/user-attachments/assets/5e338376-26d5-4111-ac0e-6c49312d4a6a)
 
 
 
